@@ -41,3 +41,9 @@ This project is a simple Java program that demonstrates basic file operations, i
 
 - Install the latest version of Java.
 - Ensure the `example.txt` file is in the same directory as the program, or let the program create it during execution.
+
+**OUTPUT** :
+
+![Image](https://github.com/user-attachments/assets/4bb50693-df34-4c11-9631-e8f6902c94d1)
+
+![Image](https://github.com/user-attachments/assets/e1ade5d3-2133-4f3a-a535-e8ed2b450393)
